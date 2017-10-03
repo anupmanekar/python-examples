@@ -1,1 +1,0 @@
-var index = {"Tags":{"single word":["specs\\example.html"],"test":["specs\\google_search.html"],"ui":["specs\\google_search.html"]},"Specs":{"Search terms on google":["specs\\google_search.html"],"Specification Heading":["specs\\example.html"]}};
